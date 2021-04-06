@@ -1,0 +1,19 @@
+body {
+  background: black;
+}
+
+.change-button {
+  width: 20%;
+  padding: 20px;
+  font-size: 1.2rem;
+}
+
+.change-button:hover {
+  cursor: pointer;
+}
+
+a {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  color: tomato;
+}
